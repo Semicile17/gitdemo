@@ -16,7 +16,7 @@ forward.addEventListener('click',()=>{
 })
 backward.addEventListener('click',()=>{
       if(index<=1){
-            index=1;
+            index=5;
       }
       else{
             index=index-1;
