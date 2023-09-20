@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    text-align:center;
+}
+.title{
+    padding:30px;
+}
+.container{
+    justify-content:center;
+    margin: auto;
+    display: flex;
+    align-items:center;
+    width: 720px;
+    height: 500px;
+    background-color: black;
+
+}
+.imgcontainer{
+    align-items: center;
+    background-color: white;
+    width: 690px;
+    height: 472px;
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    width: 40px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-color: blueviolet;
+}
